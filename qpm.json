@@ -1,0 +1,53 @@
+{
+  "sharedDir": "shared",
+  "dependenciesDir": "extern",
+  "info": {
+    "name": "MultiQuestensions",
+    "id": "multiquestensions",
+    "version": "0.1.0-unofficial",
+    "url": "",
+    "additionalData": {}
+  },
+  "dependencies": [
+    {
+      "id": "beatsaber-hook",
+      "versionRange": "2.3.2",
+      "additionalData": {
+        "extraFiles": [
+          "src/inline-hook"
+        ]
+      }
+    },
+    {
+      "id": "codegen",
+      "versionRange": "0.14",
+      "additionalData": {}
+    },
+    {
+      "id": "custom-types",
+      "versionRange": "0.12.7",
+      "additionalData": {}
+    },
+    {
+      "id": "songloader",
+      "versionRange": "0.7.1",
+      "additionalData": {}
+    },
+    {
+      "id": "questui",
+      "versionRange": "0.11.1",
+      "additionalData": {}
+    },
+    {
+      "id": "songdownloader",
+      "versionRange": "0.3.2",
+      "additionalData": {}
+    },
+    {
+      "id": "libil2cpp",
+      "versionRange": "0.2.3",
+      "additionalData": {}
+    }
+  ],
+  "additionalData": {}
+}
