@@ -59,3 +59,4 @@ log_timestamp
 
 # Quest modding stuff
 *.qmod
+*.url
