@@ -1,6 +1,6 @@
 # MultiQuestensions for v1.17.1
 
-This is a version I forked from the original project development. There are **no differences** other than providing a build for Beat Saber Quest v1.17.1:
+This is a version I forked from the original project development. There are **no differences** other than providing a build for Beat Saber Quest v1.17.1. So just go there to get the latest version. Most probably this is not the latest.
 
 **I am not part of the Beat Together Team, responsible for the [original project development](https://github.com/Goobwabber/MultiQuestensions).**
 
